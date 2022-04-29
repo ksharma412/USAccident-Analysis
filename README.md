@@ -9,4 +9,5 @@ Data import, data cleaning, exploratory data analysis, and data modelling
 
 - I have picked this data as it has almost all type of data such as time, date, numerical values, strings, floating type integers, Boolean values etc. and I wanted to experiment and learn data analysis on datasets which are much like those in the real world. The size of the dataset is also huge, and it has given me an opportunity to dive deep into the data and understand the basic concepts of data cleaning, analysis, and modelling in a much better way. This project has given me an opportunity to learn how to clean data properly while working with different types of data; learn how to do EDA and then create models. I have covered linear regression and random forest in this project. 
 
-![image](https://user-images.githubusercontent.com/92357231/165868544-f7579849-b144-4289-aeca-da6c0ddd2169.png)
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/92357231/165868606-d421682c-86b7-42b3-962e-ae7363a69a50.png">
+
